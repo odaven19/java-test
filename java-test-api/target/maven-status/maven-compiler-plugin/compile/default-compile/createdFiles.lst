@@ -1,0 +1,11 @@
+com\inditex\javatest\api\model\Brand.class
+com\inditex\javatest\api\model\Error.class
+com\inditex\javatest\api\api\PriceApiController.class
+com\inditex\javatest\api\api\PriceApi$1.class
+com\inditex\javatest\api\model\PriceFilter.class
+com\inditex\javatest\api\api\PriceApiController$1.class
+com\inditex\javatest\api\api\PriceApiDelegate.class
+com\inditex\javatest\api\api\PriceApi.class
+com\inditex\javatest\api\model\Price.class
+com\inditex\javatest\api\model\Product.class
+com\inditex\javatest\api\api\ApiUtil.class

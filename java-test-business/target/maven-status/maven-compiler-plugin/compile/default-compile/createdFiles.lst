@@ -1,0 +1,12 @@
+com\inditex\javatest\business\spring\config\ServiceConfig.class
+com\inditex\javatest\business\service\mapper\PriceMapper.class
+com\inditex\javatest\business\service\mapper\PriceMapperImpl.class
+com\inditex\javatest\business\jpa\model\BrandEntity.class
+com\inditex\javatest\business\jpa\model\ProductEntity.class
+com\inditex\javatest\business\model\PriceFilterDTO.class
+com\inditex\javatest\business\jpa\model\PriceEntity.class
+com\inditex\javatest\business\service\impl\PriceServiceImpl.class
+com\inditex\javatest\business\spring\config\JPAConfig.class
+com\inditex\javatest\business\service\PriceService.class
+com\inditex\javatest\business\jpa\repository\PriceRepository.class
+com\inditex\javatest\business\model\PriceDTO.class

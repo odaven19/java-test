@@ -1,0 +1,5 @@
+com\inditex\javatest\service\web\spring\Application.class
+com\inditex\javatest\service\web\api\PriceApiBackend.class
+com\inditex\javatest\service\web\mapper\PriceWebMapperImpl.class
+com\inditex\javatest\service\web\spring\config\WebConfig.class
+com\inditex\javatest\service\web\mapper\PriceWebMapper.class
