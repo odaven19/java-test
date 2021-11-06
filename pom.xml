@@ -11,7 +11,7 @@
 
 	<groupId>com.inditex</groupId>
 	<artifactId>java-test</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<name>Java test</name>
 	<description>Java test for Inditex</description>
